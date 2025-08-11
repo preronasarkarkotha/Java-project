@@ -1,7 +1,3 @@
-Got it — you want a **detailed long README summary** like before but **without any tables**.  
-Here’s the revised version of the GitHub README summary **with no tables at all**:
-
-***
 
 ## 🏠 Friends Hostel Management System
 
